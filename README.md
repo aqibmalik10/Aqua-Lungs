@@ -1,1 +1,2 @@
 # Aqua-Lungs
+Aqua-Lung[1] was the first open-circuit, self-contained underwater breathing apparatus (or "scuba") to achieve worldwide popularity and commercial success. This class of equipment is now commonly referred to as a diving regulator,[2] or demand valve. The Aqua-Lung was invented in France during the winter of 1942–1943 by two Frenchmen: the engineer Émile Gagnan and the Naval Lieutenant (French: "lieutenant de vaisseau") Jacques Cousteau. It allowed Cousteau and Gagnan to film and explore underwater more easily.[3]
